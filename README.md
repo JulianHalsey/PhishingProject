@@ -1,5 +1,5 @@
 <h1>Phishing Project</h1>
-This project tries to phish the victim into clicking the link, which then prompts another program
+This project tries to phish the victim into clicking the button, which then prompts another program
 
 <br />
 <br />
@@ -9,6 +9,14 @@ This project tries to phish the victim into clicking the link, which then prompt
 - <b>HTA used to create the screens <b>
 - <b>HTML implemented to create the text and images <b>
 - <b>VBS used for the logic and functionality of the pages <b>
+  
+<h2>Additional Info</h2>
+  
+- <b>The first link brings the victim to my LinkedIn page and the second to my GitHub <b>
+- <b>The second "Hack Alert" screen does not contain default controls at the top nor does it appear in the task bar <b>
+- <b>This makes the only possible way to close it is by ending the task in task manager or shutting down the computer <b>
+
+</br>
 
 <h2>
 
@@ -38,6 +46,4 @@ Money Input Page: <br/>
 <br />
 <br />
 
-- <b>The first link brings the victim to my LinkedIn page and the second to my GitHub<b>
-- <b>The second "Hack Alert" screen does not contain default controls at the top nor does it appear in the task bar<b>
 
