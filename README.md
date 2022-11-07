@@ -13,8 +13,12 @@ This project tries to phish the victim into clicking the link, which then prompt
 <h2>
 
 <p align="center">
+VBS Code: <br/>
+<img src="https://i.imgur.com/vX6mXJ5.png" height="60%" width="60%" alt="VBS Code"/>
+<br />
+<br />
 Phishing Page: <br/>
-<img src="https://i.imgur.com/WhWaqfm.png" height="60%" width="60%" alt="Phish Page"/>
+<img src="https://i.imgur.com/WhWaqfm.png" height="65%" width="65%" alt="Phish Page"/>
 <br />
 <br />
 Code of Phishing Page: <br/>
@@ -22,7 +26,7 @@ Code of Phishing Page: <br/>
 <br />
 <br />
 Hack Alert Page: <br/>
-<img src="https://i.imgur.com/ndeU1I4.png" height="100%" width="100%" alt="Hack Alert Page"/>
+<img src="https://i.imgur.com/ndeU1I4.png" height="105%" width="105%" alt="Hack Alert Page"/>
 <br />
 <br />
 Code of Hack Alert Page: <br/>
